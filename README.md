@@ -2,7 +2,7 @@
 COA-Assignment of RISC-V programs
 
 # 191CS237-Jithendra Sri SivaKesava Siddartha Puppala
-
+Contribution : Q1,Q5,Q6,Q7,Q9
 
 
 # 191CS261-Vamshikrishna M 

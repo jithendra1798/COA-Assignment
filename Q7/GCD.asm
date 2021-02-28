@@ -1,4 +1,6 @@
 #program to find the GCD of the 2 initilised numbers
+
+
 .data
 output: .asciz "The GCD of 2 initilised  numbers is\n "
 
