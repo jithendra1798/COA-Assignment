@@ -10,7 +10,7 @@ output: .asciz "the sum of N numbers is \n"
 	li 	a7, 4 # print function call
 	ecall
 	
-	li 	a7, 5 # readint system call
+	li 	a7, 5 # read int system call
 	ecall
 	mv a2,a0
 	la	a0, output
